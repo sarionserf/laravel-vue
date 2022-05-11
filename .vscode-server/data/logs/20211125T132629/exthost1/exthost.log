@@ -1,0 +1,12 @@
+[2021-11-25 13:26:30.826] [exthost] [info] Extension host with pid 2009 started
+[2021-11-25 13:26:30.851] [exthost] [info] Lock '/home/samu/.vscode-server/data/User/workspaceStorage/29465488355318cfe6d267921bd18433/vscode.lock': Lock acquired.
+[2021-11-25 13:26:30.867] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-25 13:26:30.872] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-25 13:26:31.042] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-25 13:26:31.084] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-25 13:26:31.088] [exthost] [info] Eager extensions activated
+[2021-11-25 13:26:39.090] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage:php'
+[2021-11-25 13:26:39.102] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+[2021-11-25 13:26:52.559] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-11-25 13:26:52.559] [exthost] [info] Lock '/home/samu/.vscode-server/data/User/workspaceStorage/29465488355318cfe6d267921bd18433/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-11-25 13:26:53.567] [exthost] [info] Extension host with pid 2009 exiting with code 0
